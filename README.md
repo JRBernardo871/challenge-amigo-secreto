@@ -3,7 +3,7 @@
 [![Licença](https://img.shields.io/badge/licença-MIT-green)](LICENSE)
 [![Status do Projeto](https://img.shields.io/badge/status-concluído-brightgreen)](#)
 
-> Código desenvolvido para sortear um amigo secreto a partir de uma lista de amigos. 🎉
+> Projeto desenvolvido para sortear um amigo secreto a partir de uma lista de amigos.
 
 ![Imagem do Projeto](assets/amigo-secreto.png)
 
