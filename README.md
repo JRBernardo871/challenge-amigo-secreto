@@ -13,8 +13,7 @@
 2.  [Layout](#layout)
 3.  [Tecnologias Utilizadas](#tecnologias-utilizadas)
 4.  [Autor do Projeto](#autor-do-projeto)
-5.  [Licença](#licença)
-6.  [Status do Projeto](#status-do-projeto)
+5.  [Status do Projeto](#status-do-projeto)
 
 ## Funcionalidades do Projeto
 
@@ -36,11 +35,7 @@
 **José Ricardo de Castro Bernardo**
 
 *   [LinkedIn](https://www.linkedin.com/in/josé-ricardo-de-castro-bernardo/)
-*   [GitHub](https://github.com/)
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+*   [GitHub](https://github.com/JRBernardo871)
 
 ## Status do Projeto
 
