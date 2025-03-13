@@ -5,23 +5,25 @@
 
 > Código desenvolvido para sortear um amigo secreto a partir de uma lista de amigos. 🎉
 
-![Imagem do Projeto](assets/amigo-secreto-2.png)
+![Imagem do Projeto](assets/amigo-secreto.png)
 
 ## Índice
 
 1.  [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 2.  [Layout](#layout)
 3.  [Tecnologias Utilizadas](#tecnologias-utilizadas)
-4.  [Autora do Projeto](#autor-do-projeto)
+4.  [Autor do Projeto](#autor-do-projeto)
 5.  [Licença](#licença)
 6.  [Status do Projeto](#status-do-projeto)
 
 ## Funcionalidades do Projeto
 
-*   **Adicionar Amigos:**
-    *   Permite
+*   **Este projeto permite que você insira nomes em uma lista e depois faça o sorteio de um nome para Amigo Secreto.
+*   **Você também pode limpar a lista de nomes, caso queira trocar algum nome ou tenha cometido algum erro de digitação.
+*   **   
 
 ## Layout
+*   **Eu utilizei o layout básico fornecido pela Alura, mas fiz modificações no conjunto de cores, estilos de fontes.
 
 ## Tecnologias Utilizadas
 
