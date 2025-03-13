@@ -19,7 +19,6 @@
 
 *   **Este projeto permite que você insira nomes em uma lista e depois faça o sorteio de um nome para Amigo Secreto.
 *   **Você também pode limpar a lista de nomes, caso queira trocar algum nome ou tenha cometido algum erro de digitação.
-*   **   
 
 ## Layout
 *   **Eu utilizei o layout básico fornecido pela Alura, mas fiz modificações no conjunto de cores, estilos de fontes.
@@ -39,5 +38,4 @@
 
 ## Status do Projeto
 
-Concluído!  Todas as funcionalidades propostas neste projeto foram implementadas com sucesso.
-
+Concluído!  Projeto implementado com sucesso !
