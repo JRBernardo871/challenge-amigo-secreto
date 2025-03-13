@@ -11,12 +11,10 @@
 
 1.  [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 2.  [Layout](#layout)
-3.  [Como Rodar Este Projeto?](#como-rodar-este-projeto)
-4.  [Tecnologias Utilizadas](#tecnologias-utilizadas)
-5.  [Autora do Projeto](#autora-do-projeto)
-6.  [Licença](#licença)
-7.  [Status do Projeto](#status-do-projeto)
-8.  [Contribuição](#contribuição)
+3.  [Tecnologias Utilizadas](#tecnologias-utilizadas)
+4.  [Autora do Projeto](#autor-do-projeto)
+5.  [Licença](#licença)
+6.  [Status do Projeto](#status-do-projeto)
 
 ## Funcionalidades do Projeto
 
