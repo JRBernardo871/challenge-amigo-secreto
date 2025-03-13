@@ -1,0 +1,220 @@
+:root {
+    --color-primary: #00ff99;
+    --color-secondary: #dcff00;
+    --color-tertiary: #0bff00;
+    --color-button: #00f6ff;
+    --color-button-hover: #f585ff;
+    --color-text: #444444;
+    --color-white: #ffffff;
+}
+
+/* Estilos gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-image: linear-gradient(to bottom, var(--color-primary), var(--color-white));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+/* Banner */
+.header-banner {
+    flex: 40%;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0 0;
+}
+
+.img-size {
+    width: 500px;
+    padding: 15px;
+    border-radius: 40px;
+}
+
+.imagemSorteio {
+    display: none; /* Inicialmente, a imagem está escondida */
+    width: 200px;
+    padding: 15px;
+    border-radius: 50%;    
+}
+/* Seção de entrada */
+.input-section {
+    flex: 60%;
+    background-color: var(--color-secondary);
+    border: 1px solid #5f15d3;
+    border-radius: 64px 64px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+}
+
+/* Títulos */
+.main-title {
+    font-size: 48px;
+    font-family: "Tahoma";
+    font-weight: 900;
+    font-style: italic;
+    color: var(--color-white);
+    text-shadow: 2px 2px 5px var(--color-button-hover);
+}
+
+.section-title {
+    font-family: "Tahoma";
+    font-size: 36px;
+    font-weight: 700;
+    color: #aa00ff;
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* Parágrafos*/
+p{
+    font-family: "Tahoma";
+    font-size: 26px;
+    font-weight: 500;
+    color: var(--color-text);
+    margin: 10px 0;
+    text-align: center;
+}
+/* Contêineres de entrada e botão */
+.input-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+.input-name {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #5f15d3;
+    border-radius: 25px 0 0 25px;
+    font-size: 16px;
+}
+
+.mensagem {
+    color: var(--color-text);
+    font-size: 1.1em;
+}
+
+.button-container {
+    width: 300px;
+    justify-content: center;
+}
+
+/* Estilos de entrada de texto */
+.input-title {
+    flex: 1;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #5f15d3;
+    border-right: none;
+    border-radius: 25px 0 0 25px;
+    font-family: "Tahoma";
+    box-shadow: 0 4px 8px rgba(100, 100, 100, 10);
+}
+
+/* Estilos de botão */
+button {
+    padding: 15px 30px;
+    font-family: "Century Gothic";
+    font-size: 16px;
+    border: 2px solid #5f15d3;
+    border-radius: 10px;
+    box-shadow: 0 10px 8px color(srgb 50 50 50);
+    cursor: pointer;
+}
+
+.button-add {
+    background-color: var(--color-tertiary);
+    font-size: 20px;
+    font-style: italic;
+    color: var(--color-text);
+    border-radius: 0 25px 25px 0;
+}
+
+.button-add:hover {
+    background-color: #aaff00;
+}
+
+/* Listas */
+.name-list {
+    text-align: center;
+    background-color: var(--color-primary);
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 600px;
+    border: 2px solid #8B7D70;
+    list-style: none;
+    list-style-type: none;
+    color: var(--color-text);
+    font-family: "Verdana";
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+ul li {
+    background-color: var(--color-white);
+    color: #331F19;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.result-list {
+    margin-top: 15px;
+    color: #0905df;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button.botaoLista {
+    background-color: #ff00b4;
+    padding:5px 10px;
+    margin-left: 5px;
+}
+
+button.botaoLista:hover {
+    background-color: #007a1b;
+    color: var(--color-white);
+}
+/* Botão de sortear título */
+.button-draw {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: #000000);
+    background-color: #ff00ff;
+    font-size: 20px;
+}
+
+.button-draw img {
+    margin-right: 40px;
+}
+
+.button-draw:hover {
+    background-color: var(--color-button-hover);
+}
