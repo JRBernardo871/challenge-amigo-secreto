@@ -1,4 +1,4 @@
-# 🎉 Challenge Amigo Secreto 🎉
+# Challenge Amigo Secreto - Projeto ONE - Oracle-ALura
 
 [![Licença](https://img.shields.io/badge/licença-MIT-green)](LICENSE)
 [![Status do Projeto](https://img.shields.io/badge/status-concluído-brightgreen)](#)
